@@ -1,4 +1,3 @@
-aria2
 anytree
 aria2p
 asyncio
